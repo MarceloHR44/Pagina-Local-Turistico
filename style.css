@@ -1,3 +1,20 @@
+body {
+    background-color: black;
+}
+
+#page {
+    box-sizing: border-box;
+    width: 1380px;
+    padding: 80px;
+    background-color: white;
+    border-radius: 28px;
+    margin: 80px auto;  
+}
+
 img {
     border-radius: 28px;
+}
+
+main {
+    width: 1140px;
 }
